@@ -15,7 +15,7 @@ Certificados dos cursos
 | Data Science: analisando e prevendo séries temporais | Alura | 01/2026  | Python Numpy Pandas 
 | NumPy: análise numérica | Alura  | 01/2026 | Python NumPy |    
 | Data Science: testando relações com Regressão Linear | Alura  | 01/2026  | Python Seaborn Pandas |  
-| Data Science: testando hip¢teses | Alura  | 01/2026 | Python Seaborn Pandas Numpy 
+| Data Science: testando hip¢teses | Alura  | 01/2026 | Python | Pandas Numpy Seaborn MatPlotLib Scipy | * 
 | Python para Dados: funçoes, estruturas e exceções | Alura  | 01/2026 | Python |    
 | Python para Dados: primeiros passos | Alura  | 01/2026 | Python |    
 | | | 
