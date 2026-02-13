@@ -1,14 +1,7 @@
 # Certificados
 Certificados dos cursos 
 
-* desenvolvido em VBA
-* análise de textos 
-* leitura de arquivos 
-* construção matematica de imagens
-
-Objetivo e funcionalidade:
-
-- Busca nome de procedures e functions, nomes de tabelas ou palavras no geral  
+* xxxxxxxxxxxxxxxxxxxxxxxx 
 
 | Curso                   | Instituição | Data        | Linguagem | Observações     | 
 | :---------------------- | :---------- | :---------- | :-------- | :-------------- |
