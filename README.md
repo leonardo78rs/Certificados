@@ -33,6 +33,6 @@ Certificados dos cursos
 | JH Reproducible Research| Johns Hopkins University Coursera | 05/2017
 | JH R Programming| Johns Hopkins University Coursera | 05/2017
 | JH Exploratory Data Analisys| Johns Hopkins University Coursera | 05/2017
-| JH GettingAndCleanning| Johns Hopkins University Coursera | 05/2017
+| JH GettingAndCleanning| Johns Hopkins University Coursera | 05/2017 | data.table, devtools, dplyr, Hmisc, httr, jpeg, jsonlite, plyr, quantmod, reshape2, rhdf5, rlinkedin, RMySQL, sqldf, stringr, xlsx, xml, xml2
 | BDU Data Science Methodology | Big Data University/IBM | 
 | soa100%| IBM | 
