@@ -4,7 +4,7 @@ Certificados dos cursos
 * xxxxxxxxxxxxxxxxxxxxxxxx 
 
 | Curso                   | Instituição | Data        | Linguagem | Observações     | 
-| :---------------------- | :---------- | :---------- | :-------- | :-------------- |
+| :------------------------ | :------------- | :----------------- | :------ | :-------------- |
 | Python para Dados       | Alura  | 12/2025 | Python | Básico, Sem Libs | *ok   
 | Formação Data Science   | Alura  | 10/2025 | Python e libs 
 | Pandas: Transformação e manipulação de dados | Alura | 02/2026 | Python |  
