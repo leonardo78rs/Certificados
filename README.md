@@ -31,8 +31,8 @@ Certificados dos cursos
 | DiplomaCursoSuperior | Instituto Física Ufrgs | 2006 
 | DiplomaTecnicoPDD | Escola Tecnica Ufgrs | 1995 
 | JH Reproducible Research| Johns Hopkins University Coursera | 05/2017
-| JH R Programming| Johns Hopkins University Coursera | 05/2017
+| JH R Programming| Johns Hopkins University Coursera | 05/2017 | R | compiler, crayon, curl, datasets, devtools, digest, ggplot2, github, httpuv, httr, inline, jsonlite, knitr, magrittr, methods, microbenchmark, openssl, praise, pryr, r6, rbenchmark, rcpp, rcpparmadillo, rcppgsl, rcurl, rfacebook, rhtmlforms, rjson, runit, scales, stringr, swirl, testrcppclass, testrcppmodule, testthat, utils, xml | 
 | JH Exploratory Data Analisys| Johns Hopkins University Coursera | 05/2017
-| JH GettingAndCleanning| Johns Hopkins University Coursera | 05/2017 | data.table, devtools, dplyr, Hmisc, httr, jpeg, jsonlite, plyr, quantmod, reshape2, rhdf5, rlinkedin, RMySQL, sqldf, stringr, xlsx, xml, xml2
+| JH GettingAndCleanning| Johns Hopkins University Coursera | 05/2017 | R | data.table, devtools, dplyr, Hmisc, httr, jpeg, jsonlite, plyr, quantmod, reshape2, rhdf5, rlinkedin, RMySQL, sqldf, stringr, xlsx, xml, xml2
 | BDU Data Science Methodology | Big Data University/IBM | 
 | soa100%| IBM | 
