@@ -5,20 +5,25 @@ Certificados dos cursos
 
 | Curso                   | Instituição | Data        | Linguagem | Observações     | 
 | :---------------------- | :---------- | :---------- | :-------- | :-------------- |
-| Python para Dados       | Alura  | 10/2025 | Python |    
+| Python para Dados       | Alura  | 01/2026 | Python |    
 | Formação Data Science   | Alura  | 10/2025 | Python e libs
-| Pandas_ conhecendo a biblioteca | Alura  | Python Pandas
-| Pandas I_O_ trabalhando com diferentes formatos de arquivos | Alura  | Python Pandas
-| Data Visualization_ criando gráficos com bibliotecas Python | Alura  | Python Skictlearn 
-| Data Science_ testando relações com Regressão Linear | Alura  | Python Seaborn Pandas
-| Data Science_ testando hip¢teses | Alura  | Python Seaborn Pandas Numpy 
-| Data Science_ explorando e analisando dados | Alura  | Python Numpy
-| Data Science_ analisando e prevendo séries temporais | Alura  | Python Numpy Pandas
-| Formação Tech Lead | Alura  | ----- 
-| Profissão Tech Lead_ conhecendo a liderança técnica | Alura  | -----
-| Tech Lead_ gerindo pessoas e guiando para alta performance | Alura  | -----
-| Tech Lead_ desenvolvendo habilidades de comunicação | Alura  | -----
-| Tech Lead_ construindo pr ticas e rotinas de gestão | Alura  | -----
+| Pandas: Transformação e manipulação de dados | Alura | 02/2026 | Python |  
+| Pandas I/O trabalhando com diferentes formatos de arquivos | Alura  | 02/2026 | Python Pandas  
+| Pandas: conhecendo a biblioteca | Alura  | 02/2026 | Python Pandas  
+| Data Visualization: criando gráficos com bibliotecas Python | Alura  | 01/2026 | Python Skictlearn 
+| Data Science: explorando e analisando dados | Alura | 01/2026  | Python Numpy
+| Data Science: analisando e prevendo séries temporais | Alura | 01/2026  | Python Numpy Pandas 
+| NumPy: análise numérica | Alura  | 01/2026 | Python NumPy |    
+| Data Science: testando relações com Regressão Linear | Alura  | 01/2026  | Python Seaborn Pandas |  
+| Data Science: testando hip¢teses | Alura  | 01/2026 | Python Seaborn Pandas Numpy 
+| Python para Dados: funçoes, estruturas e exceções | Alura  | 01/2026 | Python |    
+| Python para Dados: primeiros passos | Alura  | 01/2026 | Python |    
+| | | 
+| Formação Tech Lead | Alura  | 12/2024 | ----- 
+| Profissão Tech Lead: conhecendo a liderança técnica | Alura  |  12/2024 |-----
+| Tech Lead: gerindo pessoas e guiando para alta performance | Alura  |  11/2024 |-----
+| Tech Lead: desenvolvendo habilidades de comunicação | Alura  |  11/2024 |-----
+| Tech Lead: construindo pr ticas e rotinas de gestão | Alura  |  11/2024 |-----
 | CognitiveClasse Hadoop101 | Big Data University/IBM | 05/2018 
 | JH Statistical Inference | Johns Hopkins University Coursera | 05/2017 
 | TreinaWeb JAVA J2EE .jpg | TreinaWeb | 2011 
