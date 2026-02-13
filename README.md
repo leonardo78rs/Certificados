@@ -10,7 +10,8 @@ Objetivo e funcionalidade:
 
 - Busca nome de procedures e functions, nomes de tabelas ou palavras no geral  
 
-
+| Curso                   | Instituição | Data        | Linguagem | Observações     | 
+| :---------------------- | :---------- | :---------- | :-------- | :-------------- |
 | Python para Dados       | Alura  | 10/2025 |    
 | Formação Data Science   | Alura  | 10/2025 |
 | Pandas_ conhecendo a biblioteca | Alura  |
