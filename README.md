@@ -5,8 +5,8 @@ Certificados dos cursos
 
 | Curso                   | Instituição | Data        | Linguagem | Observações     | 
 | :---------------------- | :---------- | :---------- | :-------- | :-------------- |
-| Python para Dados       | Alura  | 01/2026 | Python |    
-| Formação Data Science   | Alura  | 10/2025 | Python e libs
+| Python para Dados       | Alura  | 12/2025 | Python | Básico, Sem Libs | *ok   
+| Formação Data Science   | Alura  | 10/2025 | Python e libs 
 | Pandas: Transformação e manipulação de dados | Alura | 02/2026 | Python |  
 | Pandas I/O trabalhando com diferentes formatos de arquivos | Alura  | 02/2026 | Python Pandas  
 | Pandas: conhecendo a biblioteca | Alura  | 02/2026 | Python Pandas  
@@ -14,8 +14,8 @@ Certificados dos cursos
 | Data Science: explorando e analisando dados | Alura | 01/2026  | Python Numpy
 | Data Science: analisando e prevendo séries temporais | Alura | 01/2026  | Python Numpy Pandas 
 | NumPy: análise numérica | Alura  | 01/2026 | Python NumPy |    
-| Data Science: testando relações com Regressão Linear | Alura  | 01/2026  | Python Seaborn Pandas |  
-| Data Science: testando hip¢teses | Alura  | 01/2026 | Python | Pandas Numpy Seaborn MatPlotLib Scipy | * 
+| Data Science: testando relações com Regressão Linear | Alura  | 12/2025  | Python | pandas matplotlib seaborn ploty.express sklearn statsmodels | *OK 
+| Data Science: testando hip¢teses | Alura  | 12/2025 | Python | Pandas Numpy Seaborn MatPlotLib Scipy | *ok 
 | Python para Dados: funçoes, estruturas e exceções | Alura  | 01/2026 | Python |    
 | Python para Dados: primeiros passos | Alura  | 01/2026 | Python |    
 | | | 
