@@ -25,14 +25,14 @@ Certificados dos cursos
 | Tech Lead: desenvolvendo habilidades de comunicação | Alura  |  11/2024 |-----
 | Tech Lead: construindo pr ticas e rotinas de gestão | Alura  |  11/2024 |-----
 | CognitiveClasse Hadoop101 | Big Data University/IBM | 05/2018 
-| JH Statistical Inference | Johns Hopkins University Coursera | 05/2017 
+| JH Statistical Inference | Johns Hopkins University Coursera | 03/2019 - 05/2019 | R
 | TreinaWeb JAVA J2EE .jpg | TreinaWeb | 2011 
 | certificadocleancode.PNG
 | DiplomaCursoSuperior | Instituto Física Ufrgs | 2006 
 | DiplomaTecnicoPDD | Escola Tecnica Ufgrs | 1995 
-| JH Reproducible Research| Johns Hopkins University Coursera | 05/2017
-| JH R Programming| Johns Hopkins University Coursera | 05/2017 | R | compiler, crayon, curl, datasets, devtools, digest, ggplot2, github, httpuv, httr, inline, jsonlite, knitr, magrittr, methods, microbenchmark, openssl, praise, pryr, r6, rbenchmark, rcpp, rcpparmadillo, rcppgsl, rcurl, rfacebook, rhtmlforms, rjson, runit, scales, stringr, swirl, testrcppclass, testrcppmodule, testthat, utils, xml | 
-| JH Exploratory Data Analisys| Johns Hopkins University Coursera | 05/2017
-| JH GettingAndCleanning| Johns Hopkins University Coursera | 05/2017 | R | data.table, devtools, dplyr, Hmisc, httr, jpeg, jsonlite, plyr, quantmod, reshape2, rhdf5, rlinkedin, RMySQL, sqldf, stringr, xlsx, xml, xml2
+| JH Reproducible Research| Johns Hopkins University Coursera | 11/2017 - 12/2017 | R 
+| JH R Programming| Johns Hopkins University Coursera | 04/2016 - 06/2016 | R | compiler, crayon, curl, datasets, devtools, digest, ggplot2, github, httpuv, httr, inline, jsonlite, knitr, magrittr, methods, microbenchmark, openssl, praise, pryr, r6, rbenchmark, rcpp, rcpparmadillo, rcppgsl, rcurl, rfacebook, rhtmlforms, rjson, runit, scales, stringr, swirl, testrcppclass, testrcppmodule, testthat, utils, xml | 
+| JH Exploratory Data Analisys| Johns Hopkins University Coursera | 09/2017 - 11/2017 | R
+| JH GettingAndCleanning| Johns Hopkins University Coursera | 07/2016 - 09/2016 | R | data.table, devtools, dplyr, Hmisc, httr, jpeg, jsonlite, plyr, quantmod, reshape2, rhdf5, rlinkedin, RMySQL, sqldf, stringr, xlsx, xml, xml2
 | BDU Data Science Methodology | Big Data University/IBM | 
 | soa100%| IBM | 
