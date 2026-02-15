@@ -28,8 +28,8 @@ Certificados dos cursos
 | Exploratory Data Analisys| Johns Hopkins University Coursera | 09/2017 - 11/2017 | R | Libs: swirl, lattice, ggplot2, datasets, gtrendsR, scatterplot3d, seewave, shiny, dplyr, knitR |
 | GettingAndCleanning| Johns Hopkins University Coursera | 07/2016 - 09/2016 | R | Libs: curl, data.table, datasets, devtools, dplyr, Hmisc, httr, jpeg, jsonlite, methods,  openssl, plyr, quantmod, rcurl, reshape2, rhdf5, rhtmlforms, rlinkedin, RMySQL, scales, sqldf, stringr, xlsx, xml, xml2, rjson |
 | R Programming| Johns Hopkins University Coursera | 04/2016 - 06/2016 | R | Libs: swirl, datasets, devtools, ggplot2, github, knitR, utils, stringr |  
-| BDU Data Science Methodology | Big Data University/IBM | 04/2016  
-| Data Science Tool Box | Johns Hopkins University Coursera | 02/2016 - 03/2016 | Linguagem R, R Studio, Shiny (R Package), Plotly, GitHub, Rmarkdown |
+| BDU Data Science Methodology | Big Data University/IBM | 04/2016 | python | 
+| Data Science Tool Box | Johns Hopkins University Coursera | 02/2016 - 03/2016 | R | Linguagem R, R Studio, Shiny (R Package), Plotly, GitHub, Rmarkdown |
 | Soa Concepts | IBM | 2014
 | Clean Code | X | 2011
 | TreinaWeb JAVA J2EE .jpg | TreinaWeb | 2011 
