@@ -19,13 +19,9 @@ Certificados dos cursos
 | Python para Dados: funçoes, estruturas e exceções | Alura  | 01/2026 | Python |    
 | Python para Dados: primeiros passos | Alura  | 01/2026 | Python |    
 | | | 
-| Formação Tech Lead | Alura  | 12/2024 | ----- 
-| Profissão Tech Lead: conhecendo a liderança técnica | Alura  |  12/2024 |-----
-| Tech Lead: gerindo pessoas e guiando para alta performance | Alura  |  11/2024 |-----
-| Tech Lead: desenvolvendo habilidades de comunicação | Alura  |  11/2024 |-----
-| Tech Lead: construindo pr ticas e rotinas de gestão | Alura  |  11/2024 |-----
+| Formação Tech Lead | Alura  | 12/2024 | Soft Skills | Liderança técnica, Gerindo pessoas, Guiando alta performance, hab.comunicação, práticas de gestão |  
 |||
-| Statistical Inference | Johns Hopkins University Coursera | 03/2019 - 05/2019 | R | Libs: backports, car, chron, data.table, datasets, devtools, ggplot2, grid, knitR, lattice, leaflet, leafletR, plyr, reshape2, scatterplot3d, swirl, tradingeconomics |
+| Statistical Inference | Johns Hopkins University Coursera | 03/2019 - 05/2019 | R | Libs: backports, car, chron, data.table, datasets, devtools, ggplot2, grid, knitR, lattice, leaflet, leafletR, plyr, reshape2, scatterplot3d, swirl, tradingeconomic |
 | CognitiveClasse Hadoop101 | Big Data University/IBM | 05/2018 
 | Reproducible Research| Johns Hopkins University Coursera | 11/2017 - 12/2017 | R | Libs: cardatasets, cartography, chron, data.table, ggplot2, grid, knitR, lattice, leaflet, maptools, plyr, RColorBrewer, reshape2, rgdal, seewave, tmap |
 | Exploratory Data Analisys| Johns Hopkins University Coursera | 09/2017 - 11/2017 | R | Libs: swirl, lattice, ggplot2, datasets, gtrendsR, scatterplot3d, seewave, shiny, dplyr, knitR |
