@@ -5,20 +5,20 @@ Certificados dos cursos
 
 | Curso                   | Instituição | Data        | Linguagem | Observações     |    |
 | :------------------------ | :------------- | :----------------- | :------ | :-------------- | ---|
-| Python para Dados       | Alura  | 02/2026 | Python | Básico, Sem Libs | *ok   
-| Pandas: Transformação e manipulação de dados | Alura | 02/2026 | Python | Libs: pandas, plotly  
-| Pandas I/O trabalhando com diferentes formatos de arquivos | Alura  | 01/2026-02/2026 | Python | Libs: pandas, sqlalchemy  
-| Pandas: conhecendo a biblioteca | Alura  | 01/2026 | Python | Libs: pandas
+| Python para Dados       | Alura  | 02/2026 | Python | Básico, Sem Libs |   
+| Pandas: Transformação e manipulação de dados | Alura | 02/2026 | Python | Libs: pandas, plotly | 
+| Pandas I/O trabalhando com diferentes formatos de arquivos | Alura  | 01/2026-02/2026 | Python | Libs: pandas, sqlalchemy  |
+| Pandas: conhecendo a biblioteca | Alura  | 01/2026 | Python | Libs: pandas |
 |||
-| Formação Data Science   | Alura  | 12/2025 | Python e libs 
+| Formação Data Science   | Alura  | 12/2025 | Python e libs |
 | NumPy: análise numérica | Alura  | 12/2025 | Python | Libs: numPy, matplotlib |
-| Python para Dados: funçoes, estruturas e exceções | Alura  | 12/2025 | Python | Libs: pandas, matplotlib, pandas   
-| Data Science: analisando e prevendo séries temporais | Alura | 12/2025  | Python | Libs: pandas, numPy, seaborn, matplotlib, prophet, sklearn, scipy 
-| Data Science: testando relações com Regressão Linear | Alura  | 12/2025  | Python | Libs: pandas, matplotlib, seaborn, ploty, sklearn, statsmodels | *OK 
-| Data Science: testando hipóteses | Alura  | 12/2025 | Python | Libs: pandas, numPy, seaborn, matPlotLib, scipy, statsmodels | *ok 
-| Data Visualization: criando gráficos com bibliotecas Python | Alura  | 11/2025 | Python | Libs: pandas, seaborn, matplotlib  
-| Data Science: explorando e analisando dados | Alura | 11/2025  | Python | Libs: pandas, seaborn, matplotlib 
-| Python para Dados: primeiros passos | Alura  | 10/2025 | Python | no extra libs   
+| Python para Dados: funçoes, estruturas e exceções | Alura  | 12/2025 | Python | Libs: pandas, matplotlib, pandas |  
+| Data Science: analisando e prevendo séries temporais | Alura | 12/2025  | Python | Libs: pandas, numPy, seaborn, matplotlib, prophet, sklearn, scipy |
+| Data Science: testando relações com Regressão Linear | Alura  | 12/2025  | Python | Libs: pandas, matplotlib, seaborn, ploty, sklearn, statsmodels |  
+| Data Science: testando hipóteses | Alura  | 12/2025 | Python | Libs: pandas, numPy, seaborn, matPlotLib, scipy, statsmodels | 
+| Data Visualization: criando gráficos com bibliotecas Python | Alura  | 11/2025 | Python | Libs: pandas, seaborn, matplotlib  |
+| Data Science: explorando e analisando dados | Alura | 11/2025  | Python | Libs: pandas, seaborn, matplotlib |
+| Python para Dados: primeiros passos | Alura  | 10/2025 | Python | no extra libs  | 
 | | | 
 | Formação Tech Lead | Alura  | 12/2024 | Soft Skills | Liderança técnica, Gerindo pessoas, Guiando alta performance, hab.comunicação, práticas de gestão |  
 |||
