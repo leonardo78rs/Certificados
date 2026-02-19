@@ -36,5 +36,5 @@ Certificados dos cursos
 | Soa Concepts | IBM | 2014
 | Clean Code | SkillSoft | 2011
 | TreinaWeb JAVA J2EE .jpg | TreinaWeb | 2011 
-| DiplomaCursoSuperior | Instituto Física Ufrgs | 2006 
-| DiplomaTecnicoPDD | Escola Tecnica Ufgrs | 1995 
+| DiplomaCursoSuperior | Instituto Física Ufrgs | 2006 | Esp. Novas Tecnolocias na Física | Linguagens: Pascal, Fortran, MatLab, Html/CSS, Latex, Softwares dvs de física 
+| DiplomaTecnicoPDD | Escola Tecnica Ufgrs | 1995 | Dvs Linguagens | Basic, Pascal, C, Clipper, Cobol, Dbase 
