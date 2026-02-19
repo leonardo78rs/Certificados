@@ -5,8 +5,10 @@ Certificados dos cursos
 
 | Curso                   | Instituição | Data        | Linguagem | Observações     |    |
 | :------------------------ | :------------- | :----------------- | :------ | :-------------- | ---|
-| Python para Dados       | Alura  | 02/2026 | Python | Básico, Sem Libs |   
+| Pandas: Limpeza e tratamento de dados para ML | Alura | 02/2026 |Python | Libs: pandas....
+| Pandas: Selecionando e agrupando dados | Alura | 02/2026 | Python | Libs: pandas.... 
 | Pandas: Transformação e manipulação de dados | Alura | 02/2026 | Python | Libs: pandas, plotly | 
+| Python para Dados       | Alura  | 02/2026 | Python | Básico, Sem Libs |   
 | Pandas I/O trabalhando com diferentes formatos de arquivos | Alura  | 01/2026-02/2026 | Python | Libs: pandas, sqlalchemy  |
 | Pandas: conhecendo a biblioteca | Alura  | 01/2026 | Python | Libs: pandas |
 |||
