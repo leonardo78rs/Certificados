@@ -34,7 +34,7 @@ Certificados dos cursos
 | BDU Data Science Methodology | Big Data University/IBM | 04/2016 | python | 
 | Data Science Tool Box | Johns Hopkins University Coursera | 02/2016 - 03/2016 | R | Linguagem R, R Studio, Shiny (R Package), Plotly, GitHub, Rmarkdown |
 | Soa Concepts | IBM | 2014
-| Clean Code | X | 2011
+| Clean Code | SkillSoft | 2011
 | TreinaWeb JAVA J2EE .jpg | TreinaWeb | 2011 
 | DiplomaCursoSuperior | Instituto Física Ufrgs | 2006 
 | DiplomaTecnicoPDD | Escola Tecnica Ufgrs | 1995 
