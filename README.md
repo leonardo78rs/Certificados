@@ -22,8 +22,6 @@ Certificados dos cursos
 | Data Science: explorando e analisando dados | Alura | 11/2025  | Python | Libs: pandas, seaborn, matplotlib |
 | Python para Dados: primeiros passos | Alura  | 10/2025 | Python | no extra libs  | 
 | | | 
-| Formação Tech Lead | Alura  | 12/2024 | Soft Skills | Liderança técnica, Gerindo pessoas, Guiando alta performance, hab.comunicação, práticas de gestão |  
-|||
 | Statistical Inference | Johns Hopkins University Coursera | 03/2019 - 05/2019 | R | Libs: backports, car, chron, data.table, datasets, devtools, ggplot2, grid, knitR, lattice, leaflet, leafletR, plyr, reshape2, scatterplot3d, swirl, tradingeconomic |
 | Fundamentos do Spark | Big Data University/IBM | 08/2018 | Spark, Scala | RDD (Conj.dados distr.), Spark SQL (HiveQL e Sql), GraphX, HDFS   
 | CognitiveClasses Hadoop101 | Big Data University/IBM | 04/2018-05/2018 | Haddop, Java, MapReduce | Fundamentos, arquitetura Hadoop, HDFS, Apache-Hive, Apache-Pig | 
@@ -33,8 +31,15 @@ Certificados dos cursos
 | R Programming| Johns Hopkins University Coursera | 04/2016 - 06/2016 | R | Libs: swirl, datasets, devtools, ggplot2, github, knitR, utils, stringr |  
 | BDU Data Science Methodology | Big Data University/IBM | 04/2016 | python | 
 | Data Science Tool Box | Johns Hopkins University Coursera | 02/2016 - 03/2016 | R | Linguagem R, R Studio, Shiny (R Package), Plotly, GitHub, Rmarkdown |
+
+
+
+| Curso                   | Instituição | Data        | Linguagem | Observações     |    |
+| :------------------------ | :------------- | :----------------- | :------ | :-------------- | ---|
+| Formação Tech Lead | Alura  | 12/2024 | Soft Skills | Liderança técnica, Gerindo pessoas, Guiando alta performance, hab.comunicação, práticas de gestão |  
+|||
+| DiplomaCursoSuperior | Instituto Física Ufrgs | 2006 | Esp. Novas Tecnolocias na Física | Linguagens: Pascal, Fortran, MatLab, Html/CSS, Latex, Softwares dvs de física 
+| DiplomaTecnicoPDD | Escola Tecnica Ufgrs | 1995 | Dvs Linguagens | Basic, Pascal, C, Clipper, Cobol, Dbase 
 | Soa Concepts | IBM | 2014
 | Clean Code | SkillSoft | 2011
 | TreinaWeb JAVA J2EE .jpg | TreinaWeb | 2011 
-| DiplomaCursoSuperior | Instituto Física Ufrgs | 2006 | Esp. Novas Tecnolocias na Física | Linguagens: Pascal, Fortran, MatLab, Html/CSS, Latex, Softwares dvs de física 
-| DiplomaTecnicoPDD | Escola Tecnica Ufgrs | 1995 | Dvs Linguagens | Basic, Pascal, C, Clipper, Cobol, Dbase 
