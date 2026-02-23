@@ -43,3 +43,17 @@ Certificados dos cursos
 | Soa Concepts | IBM | 2014
 | Clean Code | SkillSoft | 2011
 | TreinaWeb JAVA J2EE .jpg | TreinaWeb | 2011 
+.
+.
+
+
+<details>
+<summary>Clique para ver a tabela completa de preços</summary>
+
+
+| Produto | Preço |
+| :--- | :--- |
+| Item A | R$ 10 |
+| Item B | R$ 20 |
+
+</details>
