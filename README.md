@@ -1,28 +1,32 @@
-# Certificados
-Certificados dos cursos 
+# Certificados 🎓
 
-* xxxxxxxxxxxxxxxxxxxxxxxx 
+Este repositório reúne certificados de cursos, formações e diplomas que concluí ao longo da minha trajetória acadêmica e profissional, com foco em **Data Science, Python, R, Big Data, entre outros**. 
 
-| Curso                   | Instituição | Data        | Linguagem | Observações     |    |
-| :------------------------ | :------------- | :----------------- | :------ | :-------------- | ---|
-| **Trilha Python para Data Science** | Alura | 02/2026 | Python |  | 
-| - Pandas: Limpeza e tratamento de dados para ML | Alura | 02/2026 |Python | Libs: pandas....
-| - Pandas: Selecionando e agrupando dados | Alura | 02/2026 | Python | Libs: pandas....
-| - Pandas: Transformação e manipulação de dados | Alura | 02/2026 | Python | Libs: pandas, plotly | 
+
+| Curso                       | Instituição | Data        | Linguagem | Observações     |    |
+| :--------------------------- | :------------- | :----------------- | :------ | :-------------- | ---|
+| **Trilha Python para Data Science** | **Alura**  | **2025-2026** | **Python** |  | 
+|  Pandas: Limpeza e tratamento de dados para ML | Alura | 02/2026 |Python | Libs: pandas....
+| * Pandas: Selecionando e agrupando dados | Alura | 02/2026 | Python | Libs: pandas....
+| * Pandas: Transformação e manipulação de dados | Alura | 02/2026 | Python | Libs: pandas, plotly | 
 | - Python para Dados       | Alura  | 02/2026 | Python | Básico, Sem Libs |   
 | - Pandas I/O trabalhando com diferentes formatos de arquivos | Alura  | 01/2026-02/2026 | Python | Libs: pandas, sqlalchemy  |
 | - Pandas: conhecendo a biblioteca | Alura  | 01/2026 | Python | Libs: pandas |
 |||
-| Formação Data Science   | Alura  | 12/2025 | Python |
+| **Formação Data Science**   | **Alura**  | **12/2025** | **Python** |
 | NumPy: análise numérica | Alura  | 12/2025 | Python | Libs: numPy, matplotlib |
 | Python para Dados: funçoes, estruturas e exceções | Alura  | 12/2025 | Python | Libs: pandas, matplotlib, pandas |  
 | Data Science: analisando e prevendo séries temporais | Alura | 12/2025  | Python | Libs: pandas, numPy, seaborn, matplotlib, prophet, sklearn, scipy |
-| Data Science: testando relações com Regressão Linear | Alura  | 12/2025  | Python | Libs: pandas, matplotlib, seaborn, ploty, sklearn, statsmodels |  
+| Data Science: testando relações com Regressão Linear | Alura  | 12/2025  | Python | Libs: pandas, matplotlib, seaborn, ploty, sklearn, statsmodels |
 | Data Science: testando hipóteses | Alura  | 12/2025 | Python | Libs: pandas, numPy, seaborn, matPlotLib, scipy, statsmodels | 
 | Data Visualization: criando gráficos com bibliotecas Python | Alura  | 11/2025 | Python | Libs: pandas, seaborn, matplotlib  |
 | Data Science: explorando e analisando dados | Alura | 11/2025  | Python | Libs: pandas, seaborn, matplotlib |
-| Python para Dados: primeiros passos | Alura  | 10/2025 | Python | no extra libs  | 
-| | | 
+| Python para Dados: primeiros passos | Alura  | 10/2025 | Python |  |
+
+
+| Curso                       | Instituição | Data        | Linguagem | Observações     |    |
+| :--------------------------- | :------------- | :----------------- | :------ | :-------------- | ---|
+| **Formação Data Science**   |  | 2016-2019 |  |
 | Statistical Inference | Johns Hopkins University Coursera | 03/2019 - 05/2019 | R | Libs: backports, car, chron, data.table, datasets, devtools, ggplot2, grid, knitR, lattice, leaflet, leafletR, plyr, reshape2, scatterplot3d, swirl, tradingeconomic |
 | Fundamentos do Spark | Big Data University/IBM | 08/2018 | Spark, Scala | RDD (Conj.dados distr.), Spark SQL (HiveQL e Sql), GraphX, HDFS   
 | CognitiveClasses Hadoop101 | Big Data University/IBM | 04/2018-05/2018 | Haddop, Java, MapReduce | Fundamentos, arquitetura Hadoop, HDFS, Apache-Hive, Apache-Pig | 
@@ -32,6 +36,8 @@ Certificados dos cursos
 | R Programming| Johns Hopkins University Coursera | 04/2016 - 06/2016 | R | Libs: swirl, datasets, devtools, ggplot2, github, knitR, utils, stringr |  
 | BDU Data Science Methodology | Big Data University/IBM | 04/2016 | python | 
 | Data Science Tool Box | Johns Hopkins University Coursera | 02/2016 - 03/2016 | R | Linguagem R, R Studio, Shiny (R Package), Plotly, GitHub, Rmarkdown |
+
+|
 
 
 
@@ -46,38 +52,4 @@ Certificados dos cursos
 | TreinaWeb JAVA J2EE .jpg | TreinaWeb | 2011 
 .
 .
-
-
-<details>
-<summary>Clique para ver a tabela completa de preços</summary>
-
-
-| Produto | Preço |
-| :--- | :--- |
-| Item A | R$ 10 |
-| Item B | R$ 20 |
-
-</details>
-
-
-
-|||
-| Formação Data Science   | Alura  | 12/2025 | Python e libs |
-| <details>
-<summary>Clique para ver a formação completa </summary> | ||   
-| Curso                   | Instituição | Data        | Linguagem | Observações     |    |
-| :------------------------ | :------------- | :----------------- | :------ | :-------------- | ---|
-| NumPy: análise numérica | Alura  | 12/2025 | Python | Libs: numPy, matplotlib |
-| Python para Dados: funçoes, estruturas e exceções | Alura  | 12/2025 | Python | Libs: pandas, matplotlib, pandas |  
-| Data Science: analisando e prevendo séries temporais | Alura | 12/2025  | Python | Libs: pandas, numPy, seaborn, matplotlib, prophet, sklearn, scipy |
-| Data Science: testando relações com Regressão Linear | Alura  | 12/2025  | Python | Libs: pandas, matplotlib, seaborn, ploty, sklearn, statsmodels |  
-| Data Science: testando hipóteses | Alura  | 12/2025 | Python | Libs: pandas, numPy, seaborn, matPlotLib, scipy, statsmodels | 
-| Data Visualization: criando gráficos com bibliotecas Python | Alura  | 11/2025 | Python | Libs: pandas, seaborn, matplotlib  |
-| Data Science: explorando e analisando dados | Alura | 11/2025  | Python | Libs: pandas, seaborn, matplotlib |
-| Python para Dados: primeiros passos | Alura  | 10/2025 | Python | no extra libs  | 
-</details>  |
-| | | 
-
-
-
 
