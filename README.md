@@ -64,6 +64,8 @@ Certificados dos cursos
 | Formação Data Science   | Alura  | 12/2025 | Python e libs |
 <details>
 <summary>Clique para ver a formação completa </summary>
+| Curso                   | Instituição | Data        | Linguagem | Observações     |    |
+| :------------------------ | :------------- | :----------------- | :------ | :-------------- | ---|
 | NumPy: análise numérica | Alura  | 12/2025 | Python | Libs: numPy, matplotlib |
 | Python para Dados: funçoes, estruturas e exceções | Alura  | 12/2025 | Python | Libs: pandas, matplotlib, pandas |  
 | Data Science: analisando e prevendo séries temporais | Alura | 12/2025  | Python | Libs: pandas, numPy, seaborn, matplotlib, prophet, sklearn, scipy |
