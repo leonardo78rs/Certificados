@@ -49,6 +49,7 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | **Outros cursos e formações**         |  |  |  |
 | Formação Tech Lead | Alura  | 10/2024 | Soft Skills | Liderança técnica, Gerindo pessoas, Guiando alta performance, hab.comunicação, práticas de gestão |  
 |||
+| Clean Code | SkillSoft | 2019 | --- | Genérico | 
 | DevOps Foundation & Awareness | Think40 Ibm | 03/2015 | --- | Principios básicos, CI/CD, automação | 
 | Agile Development | Think40 Ibm | 03/2015 | | Scrum Basics, planning, estimation and metrics | 
 | SOA Concepts | Ibm | 01/2015 | --- | Java, SOAP, WSDL, XML |
@@ -58,7 +59,6 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | Introdução Orientação a objetos | Caelum | 07/2013 | --- | Genérico |
 | Fundamentos Sql Server | Totvs | 10/2012 | MS SQL | Sql 
 | Advanced Protheus Language | Totvs | 06-08/2012 | AdvPL | AdvPL, Sql 
-| Clean Code | SkillSoft | 2011 | --- | Genérico | 
 | Java J2EE | TreinaWeb | 2011 | Java | Enterprise Edition |
 | Curso Superior | Instituto Física Ufrgs | 2000-2006 | Esp. Novas Tecnologias na Física | Linguagens: Pascal, Fortran, MatLab, Html/CSS, LaTeX, Softwares dvs de física 
 | Técnico Proc. Dados | Escola Técnica Ufgrs | 1992-1995 | Dvs Linguagens | Basic, Pascal, C, Clipper, Cobol, Dbase |
