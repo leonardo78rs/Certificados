@@ -6,12 +6,12 @@ Este repositório reúne certificados de cursos, formações e diplomas que conc
 | Curso                       | Instituição | Data        | Linguagem | Observações     |   
 | :-------------------------- | :------------- | :----------------- | :------ | :-------------- | 
 | **Trilha Python para Data Science** | **Alura**  | **2025-2026** | **Python** |  | 
-|  Pandas: Limpeza e tratamento de dados para ML | Alura | 02/2026 |Python | Libs: pandas, json, seaborn, numpy
-| * Pandas: Selecionando e agrupando dados | Alura | 02/2026 | Python | Libs: pandas, plotly 
-| * Pandas: Transformação e manipulação de dados | Alura | 02/2026 | Python | Libs: pandas, numpy | 
-| - Python para Dados       | Alura  | 02/2026 | Python | Básico, Sem Libs |   
-| - Pandas I/O trabalhando com diferentes formatos de arquivos | Alura  | 01/2026-02/2026 | Python | Libs: pandas, sqlalchemy  |
-| - Pandas: conhecendo a biblioteca | Alura  | 01/2026 | Python | Libs: pandas |
+| Pandas: Limpeza e tratamento de dados para ML | Alura | 02/2026 |Python | Libs: pandas, json, seaborn, numpy
+| Pandas: Selecionando e agrupando dados | Alura | 02/2026 | Python | Libs: pandas, plotly 
+| Pandas: Transformação e manipulação de dados | Alura | 02/2026 | Python | Libs: pandas, numpy | 
+| Python para Dados       | Alura  | 02/2026 | Python | Básico, Sem Libs |   
+| Pandas I/O trabalhando com diferentes formatos de arquivos | Alura  | 01/2026-02/2026 | Python | Libs: pandas, sqlalchemy  |
+| Pandas: conhecendo a biblioteca | Alura  | 01/2026 | Python | Libs: pandas |
 |||
 | **Formação Data Science**   | **Alura**  | **12/2025** | **Python** |
 | NumPy: análise numérica | Alura  | 12/2025 | Python | Libs: numPy, matplotlib |
