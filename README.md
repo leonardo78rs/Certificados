@@ -60,8 +60,8 @@ Este repositório reúne certificados de cursos, formações e diplomas que conc
 | Advanced Protheus Language | Totvs | 06-08/2012 | Advpdl | Advpl, Sql 
 | Clean Code | SkillSoft | 2011 | --- | Genérico | 
 | Java J2EE | TreinaWeb | 2011 | Java | Enterprise Edition |
-| DiplomaCursoSuperior | Instituto Física Ufrgs | 2006 | Esp. Novas Tecnolocias na Física | Linguagens: Pascal, Fortran, MatLab, Html/CSS, Latex, Softwares dvs de física 
-| DiplomaTecnicoPDD | Escola Tecnica Ufgrs | 1995 | Dvs Linguagens | Basic, Pascal, C, Clipper, Cobol, Dbase |
+| Curso Superior | Instituto Física Ufrgs | 2000-2006 | Esp. Novas Tecnolocias na Física | Linguagens: Pascal, Fortran, MatLab, Html/CSS, Latex, Softwares dvs de física 
+| Técnico Proc. Dados | Escola Tecnica Ufgrs | 1992-1995 | Dvs Linguagens | Basic, Pascal, C, Clipper, Cobol, Dbase |
 
 
 .
