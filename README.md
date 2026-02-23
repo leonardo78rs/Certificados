@@ -28,7 +28,7 @@ Este repositório reúne certificados de cursos, formações e diplomas que conc
 
 | Curso                       | Instituição | Data        | Linguagem | Observações     |    |
 | :------------------------- | :------------- | :----------------- | :------ | :-------------- | ---|
-| **Formação Data Science**   |  | 2016-2019 |  |
+| **Formação Data Science**   | Johns Hopkins/BDU | 2016-2019 |  |
 | Statistical Inference | Johns Hopkins University Coursera | 03/2019 - 05/2019 | R | Libs: backports, car, chron, data.table, datasets, devtools, ggplot2, grid, knitR, lattice, leafletR, plyr, reshape2, scatterplot3d, swirl, tradingeconomic |
 | Fundamentos do Spark | Big Data University/IBM | 08/2018 | Spark, Scala | RDD (Conj.dados distr.), Spark SQL (HiveQL e Sql), GraphX, HDFS   
 | CognitiveClasses Hadoop101 | Big Data University/IBM | 04/2018-05/2018 | Haddop, Java, MapReduce | Fundamentos, arquitetura Hadoop, HDFS, Apache-Hive, Apache-Pig | 
@@ -53,14 +53,14 @@ Este repositório reúne certificados de cursos, formações e diplomas que conc
 | DiplomaTecnicoPDD | Escola Tecnica Ufgrs | 1995 | Dvs Linguagens | Basic, Pascal, C, Clipper, Cobol, Dbase |
 | DevOps Foundation & Awareness | Think40 Ibm | 03/2015 | --- | Principios básicos, CI/CD, automação | 
 | Agile Development | Think40 Ibm | 03/2015 | | Scrum Basics, planning, estimation and metrics | 
-| Soa Concepts | IBM | 01/2015 | Dvs | Java, SOAP, WSDL, XML | 
+| Soa Concepts | Ibm | 01/2015 | --- | Java, SOAP, WSDL, XML |
 | Clean Code | SkillSoft | 2011 | --- | Genérico | 
 | Oracle Database 10g Pl/Sql | Ibm | 12/2013-02/2014 | PL/SQL | SQL, estrutura de blocos, controles de fluxo, cursores, procedures/functions, packages | 
-| Advanced Html Design | Ibm | 08/2013 | Html, Css | 
-| Desenvolvimento Java Web | Caelum | JavaScript | Introdutório |
-| Introdução Orient.Objetos | Caelum | --- | Genérico |
-| Fundamentos Sql Server | Totvs | 10/2012 | MsSql |
-| Advanced Protheus Language | Totvs | 06-08/2012 | Advpdl / Sql |
+| Advanced Html Design | Ibm | 08/2013 | Html | Html, Css, Js | 
+| Desenvolvimento Java Web | Caelum | 08/2013 | ---  | Introdutório Java |
+| Introdução Orient.Objetos | Caelum | 08/2013 | --- | Genérico |
+| Fundamentos Sql Server | Totvs | 10/2012 | MsSql | Sql 
+| Advanced Protheus Language | Totvs | 06-08/2012 | Advpdl | Advpl, Sql 
 | Java J2EE | TreinaWeb | 2011 | Java | Enterprise Edition |
 
 .
