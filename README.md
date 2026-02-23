@@ -28,7 +28,7 @@ Este repositório reúne certificados de cursos, formações e diplomas que conc
 
 | Curso                       | Instituição | Data        | Linguagem | Observações     |
 | :-------------------------- | :------------- | :----------------- | :------ | :-------------- |
-| **Formação Data Science          **   | Johns Hopkins & BDU | 2016-2019 |  |
+| **Formação Data Science**             | Johns Hopkins & BDU | 2016-2019 |  |
 | Statistical Inference | Johns Hopkins University Coursera | 03/2019 - 05/2019 | R | Libs: backports, car, chron, data.table, datasets, devtools, ggplot2, grid, knitR, lattice, leafletR, plyr, reshape2, scatterplot3d, swirl, tradingeconomic |
 | Fundamentos do Spark | Big Data University/IBM | 08/2018 | Spark, Scala | RDD (Conj.dados distr.), Spark SQL (HiveQL e Sql), GraphX, HDFS   
 | CognitiveClasses Hadoop101 | Big Data University/IBM | 04/2018-05/2018 | Haddop, Java, MapReduce | Fundamentos, arquitetura Hadoop, HDFS, Apache-Hive, Apache-Pig | 
@@ -46,7 +46,7 @@ Este repositório reúne certificados de cursos, formações e diplomas que conc
 
 | Curso                       | Instituição | Data        | Linguagem | Observações     |
 | :-------------------------- | :------------- | :----------------- | :------ | :-------------- |
-| **Outros cursos e formações      **   |  |  |  |
+| **Outros cursos e formações**         |  |  |  |
 | Formação Tech Lead | Alura  | 10/2024 | Soft Skills | Liderança técnica, Gerindo pessoas, Guiando alta performance, hab.comunicação, práticas de gestão |  
 |||
 | DevOps Foundation & Awareness | Think40 Ibm | 03/2015 | --- | Principios básicos, CI/CD, automação | 
