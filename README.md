@@ -5,14 +5,15 @@ Certificados dos cursos
 
 | Curso                   | Instituição | Data        | Linguagem | Observações     |    |
 | :------------------------ | :------------- | :----------------- | :------ | :-------------- | ---|
-| Pandas: Limpeza e tratamento de dados para ML | Alura | 02/2026 |Python | Libs: pandas....
-| Pandas: Selecionando e agrupando dados | Alura | 02/2026 | Python | Libs: pandas.... 
-| Pandas: Transformação e manipulação de dados | Alura | 02/2026 | Python | Libs: pandas, plotly | 
-| Python para Dados       | Alura  | 02/2026 | Python | Básico, Sem Libs |   
-| Pandas I/O trabalhando com diferentes formatos de arquivos | Alura  | 01/2026-02/2026 | Python | Libs: pandas, sqlalchemy  |
-| Pandas: conhecendo a biblioteca | Alura  | 01/2026 | Python | Libs: pandas |
+| **Trilha Python para Data Science** | Alura | 02/2026 | Python |  | 
+| - Pandas: Limpeza e tratamento de dados para ML | Alura | 02/2026 |Python | Libs: pandas....
+| - Pandas: Selecionando e agrupando dados | Alura | 02/2026 | Python | Libs: pandas....
+| - Pandas: Transformação e manipulação de dados | Alura | 02/2026 | Python | Libs: pandas, plotly | 
+| - Python para Dados       | Alura  | 02/2026 | Python | Básico, Sem Libs |   
+| - Pandas I/O trabalhando com diferentes formatos de arquivos | Alura  | 01/2026-02/2026 | Python | Libs: pandas, sqlalchemy  |
+| - Pandas: conhecendo a biblioteca | Alura  | 01/2026 | Python | Libs: pandas |
 |||
-| Formação Data Science   | Alura  | 12/2025 | Python e libs |
+| Formação Data Science   | Alura  | 12/2025 | Python |
 | NumPy: análise numérica | Alura  | 12/2025 | Python | Libs: numPy, matplotlib |
 | Python para Dados: funçoes, estruturas e exceções | Alura  | 12/2025 | Python | Libs: pandas, matplotlib, pandas |  
 | Data Science: analisando e prevendo séries temporais | Alura | 12/2025  | Python | Libs: pandas, numPy, seaborn, matplotlib, prophet, sklearn, scipy |
