@@ -5,7 +5,7 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 
 | Curso                       | Instituição | Data        | Linguagem | Observações     |   
 | :-------------------------- | :------------- | :----------------- | :------ | :-------------- | 
-| ###**Trilha Python para Data Science** | **Alura**  | **2025-2026** | **Python** |  | 
+| **Trilha Python para Data Science** | **Alura**  | **2025-2026** | **Python** |  | 
 | Pandas: Limpeza e tratamento de dados para ML | Alura | 02/2026 |Python | Libs: pandas, json, seaborn, numpy
 | Pandas: Selecionando e agrupando dados | Alura | 02/2026 | Python | Libs: pandas, plotly 
 | Pandas: Transformação e manipulação de dados | Alura | 02/2026 | Python | Libs: pandas, numpy | 
@@ -32,9 +32,9 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | Statistical Inference | Johns Hopkins University Coursera | 03/2019 - 05/2019 | R | Libs: backports, car, chron, data.table, datasets, devtools, ggplot2, grid, knitR, lattice, leafletR, plyr, reshape2, scatterplot3d, swirl, tradingeconomic |
 | Fundamentos do Spark | Big Data University/IBM | 08/2018 | Spark, Scala | RDD (Conj.dados distr.), Spark SQL (HiveQL e Sql), GraphX, HDFS   
 | CognitiveClasses Hadoop101 | Big Data University/IBM | 04/2018-05/2018 | Hadoop, Java, MapReduce | Fundamentos, arquitetura Hadoop, HDFS, Apache-Hive, Apache-Pig | 
-| Reproducible Research| Johns Hopkins University Coursera | 11/2017 - 12/2017 | R | Libs: cardatasets, cartography, chron, data.table, ggplot2, grid, knitR, lattice, leaflet, maptools, plyr, RColorBrewer, reshape2, rgdal, seewave, tmap |
+| Reproducible Research| Johns Hopkins University Coursera | 11/2017 - 12/2017 | R | Libs: cartography, chron, data.table, ggplot2, grid, knitR, lattice, leaflet, maptools, plyr, RColorBrewer, reshape2, rgdal, seewave, tmap |
 | Exploratory Data Analysis| Johns Hopkins University Coursera | 09/2017 - 11/2017 | R | Libs: swirl, lattice, ggplot2, datasets, gtrendsR, scatterplot3d, seewave, shiny, dplyr, knitR |
-| Getting And Cleanning Data | Johns Hopkins University Coursera | 07/2016 - 09/2016 | R | Libs: curl, data.table, datasets, devtools, dplyr, Hmisc, httr, jpeg, jsonlite, methods,  openssl, plyr, quantmod, rcurl, reshape2, rhdf5, rhtmlforms, rlinkedin, RMySQL, scales, sqldf, stringr, xlsx, xml, xml2, rjson |
+| Getting And Cleanning Data | Johns Hopkins University Coursera | 07/2016 - 09/2016 | R | Libs: curl, data.table, datasets, devtools, dplyr, Hmisc, jsonlite, methods, openssl, plyr, quantmod, rcurl, reshape2, rhdf5, RMySQL, scales, sqldf, stringr, xlsx, xml, rjson |
 | R Programming| Johns Hopkins University Coursera | 04/2016 - 06/2016 | R | Libs: swirl, datasets, devtools, ggplot2, github, knitR, utils, stringr |  
 | BDU Data Science Methodology | Big Data University/IBM | 04/2016 | Python | 
 | Data Science Tool Box | Johns Hopkins University Coursera | 02/2016 - 03/2016 | R | Linguagem R, R Studio, Shiny (R Package), Plotly, GitHub, Rmarkdown |
