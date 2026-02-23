@@ -24,23 +24,23 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | Python para Dados: primeiros passos | Alura  | 10/2025 | Python |  |
 
 
-
+--- 
 
 | Curso                       | Instituição | Data        | Linguagem | Observações     |
 | :-------------------------- | :------------- | :----------------- | :------ | :-------------- |
 | **Formação Data Science**             | Johns Hopkins & BDU | 2016-2019 |  |
-| Statistical Inference | Johns Hopkins University Coursera | 03/2019 - 05/2019 | R | Libs: backports, car, chron, data.table, datasets, devtools, ggplot2, grid, knitR, lattice, leafletR, plyr, reshape2, scatterplot3d, swirl, tradingeconomic |
+| Statistical Inference | Johns Hopkins University Coursera | 03/2019 - 05/2019 | R | Libs: backports, car, chron, data.table, datasets, devtools, ggplot2, grid, lattice, leafletR, plyr, reshape2, scatterplot3d, swirl, tradingeconomic |
 | Fundamentos do Spark | Big Data University/IBM | 08/2018 | Spark, Scala | RDD (Conj.dados distr.), Spark SQL (HiveQL e Sql), GraphX, HDFS   
 | CognitiveClasses Hadoop101 | Big Data University/IBM | 04/2018-05/2018 | Hadoop, Java, MapReduce | Fundamentos, arquitetura Hadoop, HDFS, Apache-Hive, Apache-Pig | 
-| Reproducible Research| Johns Hopkins University Coursera | 11/2017 - 12/2017 | R | Libs: cartography, chron, data.table, ggplot2, grid, knitR, lattice, leaflet, maptools, plyr, RColorBrewer, reshape2, rgdal, seewave, tmap |
-| Exploratory Data Analysis| Johns Hopkins University Coursera | 09/2017 - 11/2017 | R | Libs: swirl, lattice, ggplot2, datasets, gtrendsR, scatterplot3d, seewave, shiny, dplyr, knitR |
-| Getting And Cleanning Data | Johns Hopkins University Coursera | 07/2016 - 09/2016 | R | Libs: curl, data.table, datasets, devtools, dplyr, Hmisc, jsonlite, methods, openssl, plyr, quantmod, rcurl, reshape2, rhdf5, RMySQL, scales, sqldf, stringr, xlsx, xml, rjson |
+| Reproducible Research| Johns Hopkins University Coursera | 11/2017 - 12/2017 | R | Libs: cartography, data.table, ggplot2, knitR, lattice, leaflet, maptools, RColorBrewer, reshape2, rgdal, tmap |
+| Exploratory Data Analysis| Johns Hopkins University Coursera | 09/2017 - 11/2017 | R | Libs: swirl, lattice, ggplot2, gtrendsR, scatterplot3d, seewave, shiny, dplyr |
+| Getting And Cleanning Data | Johns Hopkins University Coursera | 07/2016 - 09/2016 | R | Libs: curl, data.table, datasets, devtools, Hmisc, jsonlite, methods, openssl, plyr, quantmod, rcurl, reshape2, rhdf5, RMySQL, scales, sqldf, stringr, xlsx, xml, rjson |
 | R Programming| Johns Hopkins University Coursera | 04/2016 - 06/2016 | R | Libs: swirl, datasets, devtools, ggplot2, github, knitR, utils, stringr |  
 | BDU Data Science Methodology | Big Data University/IBM | 04/2016 | Python | 
 | Data Science Tool Box | Johns Hopkins University Coursera | 02/2016 - 03/2016 | R | Linguagem R, R Studio, Shiny (R Package), Plotly, GitHub, Rmarkdown |
 
 
-
+--- 
 
 
 
