@@ -1,10 +1,10 @@
 # Certificados 🎓
 
-Este repositório reúne certificados de cursos, formações e diplomas que concluí ao longo da minha trajetória acadêmica e profissional, com foco em **Data Science, Python, R, Big Data, entre outros**. 
+Este repositório reúne certificados de cursos, formações e diplomas que concluí ao longo da minha trajetória, com foco em **Ciencia de dados, Python, R, Big Data, entre outros**. 
 
 
 | Curso                       | Instituição | Data        | Linguagem | Observações     |    |
-| :--------------------------- | :------------- | :----------------- | :------ | :-------------- | ---|
+| :------------------------- | :------------- | :----------------- | :------ | :-------------- | ---|
 | **Trilha Python para Data Science** | **Alura**  | **2025-2026** | **Python** |  | 
 |  Pandas: Limpeza e tratamento de dados para ML | Alura | 02/2026 |Python | Libs: pandas....
 | * Pandas: Selecionando e agrupando dados | Alura | 02/2026 | Python | Libs: pandas....
@@ -24,8 +24,10 @@ Este repositório reúne certificados de cursos, formações e diplomas que conc
 | Python para Dados: primeiros passos | Alura  | 10/2025 | Python |  |
 
 
+
+
 | Curso                       | Instituição | Data        | Linguagem | Observações     |    |
-| :--------------------------- | :------------- | :----------------- | :------ | :-------------- | ---|
+| :------------------------- | :------------- | :----------------- | :------ | :-------------- | ---|
 | **Formação Data Science**   |  | 2016-2019 |  |
 | Statistical Inference | Johns Hopkins University Coursera | 03/2019 - 05/2019 | R | Libs: backports, car, chron, data.table, datasets, devtools, ggplot2, grid, knitR, lattice, leaflet, leafletR, plyr, reshape2, scatterplot3d, swirl, tradingeconomic |
 | Fundamentos do Spark | Big Data University/IBM | 08/2018 | Spark, Scala | RDD (Conj.dados distr.), Spark SQL (HiveQL e Sql), GraphX, HDFS   
@@ -37,19 +39,21 @@ Este repositório reúne certificados de cursos, formações e diplomas que conc
 | BDU Data Science Methodology | Big Data University/IBM | 04/2016 | python | 
 | Data Science Tool Box | Johns Hopkins University Coursera | 02/2016 - 03/2016 | R | Linguagem R, R Studio, Shiny (R Package), Plotly, GitHub, Rmarkdown |
 
-|
+
+
 
 
 
 | Curso                   | Instituição | Data        | Linguagem | Observações     |    |
-| :------------------------ | :------------- | :----------------- | :------ | :-------------- | ---|
+| :------------------------- | :------------- | :----------------- | :------ | :-------------- | ---|
+| **Outros cursos e formações**   |  |  |  |
 | Formação Tech Lead | Alura  | 12/2024 | Soft Skills | Liderança técnica, Gerindo pessoas, Guiando alta performance, hab.comunicação, práticas de gestão |  
 |||
 | DiplomaCursoSuperior | Instituto Física Ufrgs | 2006 | Esp. Novas Tecnolocias na Física | Linguagens: Pascal, Fortran, MatLab, Html/CSS, Latex, Softwares dvs de física 
 | DiplomaTecnicoPDD | Escola Tecnica Ufgrs | 1995 | Dvs Linguagens | Basic, Pascal, C, Clipper, Cobol, Dbase 
 | Soa Concepts | IBM | 2014
 | Clean Code | SkillSoft | 2011
-| TreinaWeb JAVA J2EE .jpg | TreinaWeb | 2011 
-.
+| TreinaWeb JAVA J2EE | TreinaWeb | 2011 
+
 .
 
