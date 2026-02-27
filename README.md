@@ -7,6 +7,7 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | :-------------------------- | :------------- | :----------------- | :------ | :-------------- | 
 | **Trilha Python para Data Science** | **Alura**  | **2025-2026** | **Python** |  | 
 | Pandas: Limpeza e tratamento de dados para ML | Alura | 02/2026 |Python | Libs: pandas, json, seaborn, numpy
+| Pandas: Limpeza e tratamento de dados para ML | Alura | 02/2026 |Python | <details><summary>Libs: clique para expandir</summary>Libs: pandas, json, seaborn, numpy</details>| 
 | Pandas: Selecionando e agrupando dados | Alura | 02/2026 | Python | Libs: pandas, plotly 
 | Pandas: Transformação e manipulação de dados | Alura | 02/2026 | Python | Libs: pandas, numpy | 
 | Python para Dados       | Alura  | 02/2026 | Python | Básico, Sem Libs |   
