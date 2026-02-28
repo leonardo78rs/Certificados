@@ -2,7 +2,8 @@
 
 Este repositório reúne certificados de cursos e formações concluídos, com foco atual em Ciência de Dados utilizando Python e R.
 
-
+<details><summary> Trilha Python para Data Science - Alura - 12/2025 a 02/2026 </summary> 
+  
 | Curso                       | Instituição | Data        | Linguagem | Observações     |   
 | :-------------------------- | :------------- | :----------------- | :------ | :---------------------------- | 
 | **Trilha Python para Data Science** | **Alura**  | **2025-2026** | **Python** |  | 
@@ -13,9 +14,8 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | Pandas I/O trabalhando com diferentes formatos de arquivos | Alura  | 01/2026-02/2026 | Python | <details><summary>Libs:</summary>  pandas, sqlalchemy </details>| 
 | Pandas: conhecendo a biblioteca | Alura  | 01/2026 | Python | <details><summary>Lib:</summary>  pandas </details>| 
 
- <details><summary> **Formação Data Science - Alura** </summary> 
-  
-xxx
+</details>
+<details><summary> Formação Data Science - Alura - 10 a 12/2025 </summary> 
   
 | Curso                       | Instituição | Data        | Linguagem | Observações     |   
 | :-------------------------- | :------------- | :----------------- | :------ | :---------------------------- | 
@@ -29,28 +29,30 @@ xxx
 | Data Science: explorando e analisando dados | Alura | 11/2025  | Python | <details><summary>Libs:</summary>  pandas, seaborn, matplotlib </details>| 
 | Python para Dados: primeiros passos | Alura  | 10/2025 | Python |   
 
-xxx
-
 </details>
-
---- 
+<details><summary> Formação Data Science - Univ.Johns Hopkins - 2016-2019 </summary> 
 
 | Curso                       | Instituição | Data        | Linguagem | Observações     |
 | :-------------------------- | :------------- | :----------------- | :------ | :---------------------------- |
 | **Formação Data Science**             | Johns Hopkins & BDU | 2016-2019 |  |
 | Statistical Inference | Johns Hopkins University Coursera | 03/2019 - 05/2019 | R | <details><summary>Libs:</summary> backports, car, chron, data.table, datasets, devtools, ggplot2, grid, lattice, leafletR, plyr, reshape2, scatterplot3d, swirl, tradingeconomic </details>| 
-| Fundamentos do Spark | Big Data University/IBM | 08/2018 | Spark, Scala | RDD (Conj.dados distr.), Spark SQL (HiveQL e Sql), GraphX, HDFS   
-| CognitiveClasses Hadoop101 | Big Data University/IBM | 04/2018-05/2018 | Hadoop, Java, MapReduce | Fundamentos, arquitetura Hadoop, HDFS, Apache-Hive, Apache-Pig | 
 | Reproducible Research| Johns Hopkins University Coursera | 11/2017 - 12/2017 | R | <details><summary>Libs:</summary> cartography, data.table, ggplot2, knitR, lattice, leaflet, maptools, RColorBrewer, reshape2, rgdal, tmap </details>| 
 | Exploratory Data Analysis| Johns Hopkins University Coursera | 09/2017 - 11/2017 | R | <details><summary>Libs:</summary> swirl, lattice, ggplot2, gtrendsR, scatterplot3d, seewave, shiny, dplyr </details>| 
 | Getting And Cleanning Data | Johns Hopkins University Coursera | 07/2016 - 09/2016 | R | <details><summary>Libs:</summary> curl, data.table, datasets, devtools, Hmisc, jsonlite, methods, openssl, plyr, quantmod, rcurl, reshape2, rhdf5, RMySQL, scales, sqldf, stringr, xlsx, xml, rjson </details>| 
 | R Programming| Johns Hopkins University Coursera | 04/2016 - 06/2016 | R | <details><summary>Libs:</summary> swirl, datasets, devtools, ggplot2, github, knitR, utils, stringr </details>| 
-| BDU Data Science Methodology | Big Data University/IBM | 04/2016 | Python | 
 | Data Science Tool Box | Johns Hopkins University Coursera | 02/2016 - 03/2016 | R | <details><summary>Tópicos:</summary> Linguagem R, R Studio, Shiny (R Package), Plotly, GitHub, Rmarkdown </details>| 
 
+</details>
+<details><summary> Outros cursos Big Data/Data Science </summary> 
 
---- 
+| Curso                       | Instituição | Data        | Linguagem | Observações     |
+| :-------------------------- | :------------- | :----------------- | :------ | :---------------------------- |
+| Fundamentos do Spark | Big Data University/IBM | 08/2018 | Spark, Scala | RDD (Conj.dados distr.), Spark SQL (HiveQL e Sql), GraphX, HDFS   
+| CognitiveClasses Hadoop101 | Big Data University/IBM | 04/2018-05/2018 | Hadoop, Java, MapReduce | Fundamentos, arquitetura Hadoop, HDFS, Apache-Hive, Apache-Pig | 
+| BDU Data Science Methodology | Big Data University/IBM | 04/2016 | Python | 
 
+</details>
+<details><summary> Outros cursos e formações </summary> 
 
 
 | Curso                       | Instituição | Data        | Linguagem | Observações     |
@@ -73,5 +75,5 @@ xxx
 | Técnico Proc. Dados | Escola Técnica Ufgrs | 1992-1995 | Dvs Linguagens | <details><summary>Principais:</summary> Basic, Pascal, C, Clipper, Cobol, Dbase |</details>| 
 
 
-.
+</details>
 
