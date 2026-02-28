@@ -2,7 +2,7 @@
 
 Este repositório reúne certificados de cursos e formações concluídos, com foco atual em Ciência de Dados utilizando Python e R.
 
-<span style="color:green"><details><summary> Trilha Python para Data Science - Alura - 12/2025 a 02/2026 </summary> 
+<details><summary> Trilha Python para Data Science - Alura - 12/2025 a 02/2026 </summary> 
   
 | Curso                       | Instituição | Data        | Linguagem | Observações     |   
 | :-------------------------- | :------------- | :----------------- | :------ | :---------------------------- | 
@@ -14,7 +14,7 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | Pandas I/O trabalhando com diferentes formatos de arquivos | Alura  | 01/2026-02/2026 | Python | <details><summary>Libs:</summary>  pandas, sqlalchemy </details>| 
 | Pandas: conhecendo a biblioteca | Alura  | 01/2026 | Python | <details><summary>Lib:</summary>  pandas </details>| 
 
-</details></span><span style="color:green">
+</details>
 <details><summary> Formação Data Science - Alura - 10 a 12/2025 </summary> 
   
 | Curso                       | Instituição | Data        | Linguagem | Observações     |   
@@ -29,7 +29,7 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | Data Science: explorando e analisando dados | Alura | 11/2025  | Python | <details><summary>Libs:</summary>  pandas, seaborn, matplotlib </details>| 
 | Python para Dados: primeiros passos | Alura  | 10/2025 | Python |   
 
-</details></span><span style="color:blue">
+</details>
 <details><summary> Formação Data Science - Univ.Johns Hopkins - 2016-2019 </summary> 
 
 | Curso                       | Instituição | Data        | Linguagem | Observações     |
@@ -42,7 +42,7 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | R Programming| Johns Hopkins University Coursera | 04/2016 - 06/2016 | R | <details><summary>Libs:</summary> swirl, datasets, devtools, ggplot2, github, knitR, utils, stringr </details>| 
 | Data Science Tool Box | Johns Hopkins University Coursera | 02/2016 - 03/2016 | R | <details><summary>Tópicos:</summary> Linguagem R, R Studio, Shiny (R Package), Plotly, GitHub, Rmarkdown </details>| 
 
-</details></details></span><span style="color:blue">
+</details><span style="color:blue">
 <details><summary> Outros cursos Big Data/Data Science </summary> 
 
 | Curso                       | Instituição | Data        | Linguagem | Observações     |
