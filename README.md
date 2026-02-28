@@ -2,8 +2,7 @@
 
 Este repositório reúne certificados de cursos e formações concluídos, com foco atual em Ciência de Dados utilizando Python e R.
 
-<span style="color:green">
-<details><summary> Trilha Python para Data Science - Alura - 12/2025 a 02/2026 </summary> 
+<span style="color:green"><details><summary> Trilha Python para Data Science - Alura - 12/2025 a 02/2026 </summary> 
   
 | Curso                       | Instituição | Data        | Linguagem | Observações     |   
 | :-------------------------- | :------------- | :----------------- | :------ | :---------------------------- | 
