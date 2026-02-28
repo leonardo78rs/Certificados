@@ -4,7 +4,7 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 
 
 | Curso                       | Instituição | Data        | Linguagem | Observações     |   
-| :-------------------------- | :------------- | :----------------- | :------ | :-------------- | 
+| :-------------------------- | :------------- | :----------------- | :------ | :---------------------------- | 
 | **Trilha Python para Data Science** | **Alura**  | **2025-2026** | **Python** |  | 
 | Pandas: Limpeza e tratamento de dados para ML | Alura | 02/2026 |Python | <details><summary>Libs:</summary> pandas, json, seaborn, numpy </details>| 
 | Pandas: Selecionando e agrupando dados | Alura | 02/2026 | Python | <details><summary>Libs:</summary> pandas, plotly </details>|  
@@ -12,7 +12,10 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | Python para Dados       | Alura  | 02/2026 | Python | Básico, Sem Libs |   
 | Pandas I/O trabalhando com diferentes formatos de arquivos | Alura  | 01/2026-02/2026 | Python | <details><summary>Libs:</summary>  pandas, sqlalchemy </details>| 
 | Pandas: conhecendo a biblioteca | Alura  | 01/2026 | Python | <details><summary>Lib:</summary>  pandas </details>| 
-|||
+
+ <details><summary>**Formação Data Science - Alura** </summary> 
+| Curso                       | Instituição | Data        | Linguagem | Observações     |   
+| :-------------------------- | :------------- | :----------------- | :------ | :---------------------------- | 
 | **Formação Data Science**   | **Alura**  | **12/2025** | **Python** |
 | NumPy: análise numérica | Alura  | 12/2025 | Python | <details><summary>Libs:</summary> numPy, matplotlib </details>| 
 | Python para Dados: funções, estruturas e exceções | Alura  | 12/2025 | Python | <details><summary>Libs:</summary> pandas, matplotlib, pandas </details>| 
@@ -22,12 +25,12 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | Data Visualization: criando gráficos com bibliotecas Python | Alura  | 11/2025 | Python | <details><summary>Libs:</summary>  pandas, seaborn, matplotlib  </details>| 
 | Data Science: explorando e analisando dados | Alura | 11/2025  | Python | <details><summary>Libs:</summary>  pandas, seaborn, matplotlib </details>| 
 | Python para Dados: primeiros passos | Alura  | 10/2025 | Python |   
-
+</details>
 
 --- 
 
 | Curso                       | Instituição | Data        | Linguagem | Observações     |
-| :-------------------------- | :------------- | :----------------- | :------ | :-------------- |
+| :-------------------------- | :------------- | :----------------- | :------ | :---------------------------- |
 | **Formação Data Science**             | Johns Hopkins & BDU | 2016-2019 |  |
 | Statistical Inference | Johns Hopkins University Coursera | 03/2019 - 05/2019 | R | <details><summary>Libs:</summary> backports, car, chron, data.table, datasets, devtools, ggplot2, grid, lattice, leafletR, plyr, reshape2, scatterplot3d, swirl, tradingeconomic </details>| 
 | Fundamentos do Spark | Big Data University/IBM | 08/2018 | Spark, Scala | RDD (Conj.dados distr.), Spark SQL (HiveQL e Sql), GraphX, HDFS   
@@ -45,7 +48,7 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 
 
 | Curso                       | Instituição | Data        | Linguagem | Observações     |
-| :-------------------------- | :------------- | :----------------- | :------ | :-------------- |
+| :-------------------------- | :------------- | :----------------- | :------ | :---------------------------- |
 | **Outros cursos e formações**         |  |  |  |
 | Formação Tech Lead | Alura  | 10/2024 | Soft Skills | Liderança técnica, Gerindo pessoas, Guiando alta performance, hab.comunicação, práticas de gestão |  
 |||
@@ -60,7 +63,7 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | Fundamentos Sql Server | Totvs | 10/2012 | MS SQL | Sql 
 | Advanced Protheus Language | Totvs | 06-08/2012 | AdvPL | AdvPL, Sql 
 | Java J2EE | TreinaWeb | 2011 | Java | Enterprise Edition |
-| Curso Superior | Instituto Física Ufrgs | 2000-2006 | Esp. Novas Tecnologias na Física | <details><summary>Linguagens:</summary> Pascal, Fortran, MatLab, Html/CSS, LaTeX, Softwares dvs de física </details>| 
+| Curso Superior | Instituto Física Ufrgs | 2000-2006 | Esp. Novas Tecnologias na Física | <details><summary>Linguagens mais usadas:</summary> Pascal, Fortran, MatLab, Html/CSS, LaTeX, Softwares dvs de física </details>| 
 | Técnico Proc. Dados | Escola Técnica Ufgrs | 1992-1995 | Dvs Linguagens | <details><summary>Principais:</summary> Basic, Pascal, C, Clipper, Cobol, Dbase |</details>| 
 
 
