@@ -13,7 +13,10 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | Pandas I/O trabalhando com diferentes formatos de arquivos | Alura  | 01/2026-02/2026 | Python | <details><summary>Libs:</summary>  pandas, sqlalchemy </details>| 
 | Pandas: conhecendo a biblioteca | Alura  | 01/2026 | Python | <details><summary>Lib:</summary>  pandas </details>| 
 
- <details><summary>**Formação Data Science - Alura** </summary> 
+ <details><summary> **Formação Data Science - Alura** </summary> 
+  
+xxx
+  
 | Curso                       | Instituição | Data        | Linguagem | Observações     |   
 | :-------------------------- | :------------- | :----------------- | :------ | :---------------------------- | 
 | **Formação Data Science**   | **Alura**  | **12/2025** | **Python** |
@@ -25,6 +28,9 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | Data Visualization: criando gráficos com bibliotecas Python | Alura  | 11/2025 | Python | <details><summary>Libs:</summary>  pandas, seaborn, matplotlib  </details>| 
 | Data Science: explorando e analisando dados | Alura | 11/2025  | Python | <details><summary>Libs:</summary>  pandas, seaborn, matplotlib </details>| 
 | Python para Dados: primeiros passos | Alura  | 10/2025 | Python |   
+
+xxx
+
 </details>
 
 --- 
