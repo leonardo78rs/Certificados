@@ -2,6 +2,34 @@
 
 Este repositório reúne certificados de cursos e formações concluídos, com foco atual em Ciência de Dados utilizando Python e R.
 
+<details><summary>  Machine Learning de A a Z - Udemy - 02/2026 - Cursando </summary> 
+  
+| Curso                       | Instituição | Data        | Linguagem | Observações     |   
+| :-------------------------- | :------------- | :----------------- | :------ | :---------------------------- | 
+| ** Machine Learning de A a Z**           | **Udemy**  | **2026** | **Python** |  | 
+| Classificação                            | Udemy | 02/2026 |Python | Concluido | 
+| Pré-processamento                        | Udemy | 03/2026 |Python | Concluido | 
+| Aprendizagem Bayesiana                   | Udemy | 03/2026 |Python | Concluido | 
+| Árvores de decisão                       | Udemy | 03/2026 |Python | Concluido | 
+| Aprendizagem por regras                  | Udemy | 03/2026 |Python | Concluido | 
+| kNN Aprendizagem por instâncias          | Udemy | 04/2026 |Python | Concluido | 
+| Regressão Logística                      | Udemy | 04/2026 |Python | Concluido | 
+| SVM - Maq. vetores de suporte            | Udemy | 05/2026 |Python | Concluido | 
+| Redes Neurais Artificiais                | Udemy | 05/2026 |Python | Em curso  | 
+| Avaliação de algoritmos de classificação | Udemy | |Python |    ---    | 
+| Combinação e Rejeição de classificadores | Udemy | |Python |    ---    | 
+| Regressão Linear e suas métricas         | Udemy | |Python |    ---    | 
+| Regressão com os algoritmos anteriores   | Udemy | |Python |    ---    | 
+| Regras de associação (Apriori, ECLAT)    | Udemy | |Python |    ---    | 
+| Agrupamento (clustering)                 | Udemy | |Python |    ---    | 
+| Agrupamento k-Means                      | Udemy | |Python |    ---    | 
+| Agrupamento DbScan e Hierárquico         | Udemy | |Python |    ---    | 
+| Proc.Linguagem Natual (spaCy e NLTK)     | Udemy | |Python |    ---    | 
+| Visão Computacional                      | Udemy | |Python |    ---    | 
+| Proc.Linguagem Natual (spaCy e NLTK)     | Udemy | |Python |    ---    | 
+| Biblioteca PyCaret                       | Udemy | |Python |    ---    | 
+</details> 
+
 <details open><summary> Trilha Python para Data Science - Alura - 12/2025 a 02/2026 </summary> 
   
 | Curso                       | Instituição | Data        | Linguagem | Observações     |   
@@ -14,8 +42,8 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | Pandas I/O trabalhando com diferentes formatos de arquivos | Alura  | 01/2026-02/2026 | Python | <details><summary>Libs:</summary>  pandas, sqlalchemy </details>| 
 | Pandas: conhecendo a biblioteca | Alura  | 01/2026 | Python | <details><summary>Lib:</summary>  pandas </details>| 
 
-</details open>
-<details><summary> Formação Data Science - Alura - 10 a 12/2025 </summary> 
+</details>
+<details open><summary> Formação Data Science - Alura - 10 a 12/2025 </summary> 
   
 | Curso                       | Instituição | Data        | Linguagem | Observações     |   
 | :-------------------------- | :------------- | :----------------- | :------ | :---------------------------- | 
@@ -29,8 +57,8 @@ Este repositório reúne certificados de cursos e formações concluídos, com f
 | Data Science: explorando e analisando dados | Alura | 11/2025  | Python | <details><summary>Libs:</summary>  pandas, seaborn, matplotlib </details>| 
 | Python para Dados: primeiros passos | Alura  | 10/2025 | Python |   
 
-</details open>
-<details><summary> Formação Data Science - Univ.Johns Hopkins - 2016-2019 </summary> 
+</details>
+<details open><summary> Formação Data Science - Univ.Johns Hopkins - 2016-2019 </summary> 
 
 | Curso                       | Instituição | Data        | Linguagem | Observações     |
 | :-------------------------- | :------------- | :----------------- | :------ | :---------------------------- |
