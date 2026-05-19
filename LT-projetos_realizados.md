@@ -1,4 +1,4 @@
-# Principais projetos
+# Principais projetos 📰
 
 <details open><summary>**2026 Criação da base centralizadora 9806**</summary>
      +20.000 Objetos de banco de dados e seus relacionamentos
