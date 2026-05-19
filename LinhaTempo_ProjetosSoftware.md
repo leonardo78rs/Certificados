@@ -1,4 +1,18 @@
-# 📰 Principais projetos 
+# 📰 Principais projetos realizados 
+
+## Projetos em Destaque 
+
+[[2026 Criação Nova Base]](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2026-cria%C3%A7%C3%A3o-da-base-centralizadora-9806)
+[[2024 Prorrogações]](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2024-prorrogacoes-n%C3%A3o-equalizadas)
+[[2023 Transf.Dívida]](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2023-transferencia-de-d%C3%ADvida)
+[[2022 Projeção de Juros]](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2022-proje%C3%A7%C3%A3o-de-juros-futuros)
+[[2019 Cálculo CET Rural]](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2019-c%C3%A1lculo-cet-rural)
+[[2012 Módulo de Vendas]](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2012-projeto-em-empresa-de-geradores---m%C3%B3dulo-de-vendas)
+[[2011 Sistema de Eventos]](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2011-sistema-de-eventos)
+[[2010 Arquivo Digital]](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2010-arquivo-digital)
+[[1997 Dashboard Fiscal]](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#1997-planilhas-fiscaisdashbords-clientes)
+
+## 📰 Linha do tempo: principais projetos 
 
 #### 2026 Criação da base centralizadora 9806
      +20.000 Objetos de banco de dados e seus relacionamentos
@@ -7,15 +21,15 @@
      gestão de configuração, aplicações, cc, risco, credito, acessos, segurança, auditoria)
 
 #### 2025 Rotina de Sobras (Reciprocidade)
-     Ajuste obtenção valores corretos todas operacoes 9802 e 9803 
-     Performance e teste -> +630mil operacoes  +50 milhões de movimentos por ano
+     Ajuste obtenção valores corretos todas operações 9802 e 9803 
+     Performance e teste -> +630mil operações  +50 milhões de movimentos por ano
      Recálculo em produção 
 
 #### 2025 TFCB - Novo indexador 
      Permitir nova forma de cálculo pelo sistema, nova moeda
      Mapeamento necessidades, definição e desenvolvimento
      
-#### 2024 Prorrogacoes não equalizadas 
+#### 2024 Prorrogações não equalizadas 
      Definição da estrategia e desenvolvimento de toda rotina 
      Package configurável a futuras mudanças sem precisar implementação
      
@@ -78,7 +92,7 @@
      Conecpção e metodologia de nova forma de cálculo de juros aproveitando os modelos anteriores
 
 #### 2019 Cálculo CET Rural 
-     Desenho, codificação e instalação de funcionalidade para todas operacoes rurais 
+     Desenho, codificação e instalação de funcionalidade para todas operações rurais 
      Elaboração da técnica de cálculo e adaptação no sistema
      Até hoje nunca houve um erro de cálculo: Poucos incidentes eram de erro nos parâmetros
      +2 milhões de operações calculadas (2019-2026) 
