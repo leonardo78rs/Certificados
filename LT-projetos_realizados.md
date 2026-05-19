@@ -6,14 +6,12 @@
 	 Conectando +10 áreas diferentes (Infra, Dba, cadastro, entidades, opti, devops, gestão de mudanças,
 	 gestão de configuração, aplicações, cc, risco, credito, acessos, segurança, auditoria)
 
-	 
 
 ### 2025 Rotina de Sobras (Reciprocidade)
      Ajuste obtenção valores corretos todas operacoes 9802 e 9803 
 	 Performance e teste -> +630mil operacoes  +50 milhões de movimentos por ano
      Recálculo em produção 
 
-	 
 
 ### 2025 TFCB - Novo indexador 
 	 Permitir nova forma de cálculo pelo sistema, nova moeda
@@ -25,16 +23,14 @@
 	 Package configurável a futuras mudanças sem precisar implementação
 
 	 
+### 2024 Evolução de cálculos 
+     Xxxxxxx perdi o texto
 
-### 2024 Evolucao de calculos 
-
-
-	 
 ### 2023 Transferencia de Dívida 
-     Concepção e criação funcionalidade que cria todo ciclo de uma operacao rural **em menos de 1 min** 
+     Concepção e criação funcionalidade que cria todo ciclo de uma operação rural **em menos de 1 min** 
 	 Clona as operações com todas as suas ramificações: 
-	 - Solicitacao, cadastro; 
-	 - Liberacao nova, liquidacao antiga;
+	 - Solicitação, cadastro; 
+	 - Liberação nova, liquidação antiga;
 	 - Registros externos (bndes,bacen,risco, etc). 
 	 - Replicação cooperativa e banco. 
 	 - Criei as packages com funções que não existiam no sistema e agora são reutilizaveis.
@@ -42,33 +38,28 @@
 	 - Inclusive tabelas estrangeiras (ForeignKey) e tabelas auxiliares (CLob, Blob e Memo).  
 
 
-	  	 
 ### 2023 Condições e Prazos 
 	 Ajuste do sistema para cálculo de cronogramas complexos de liberação e vencimento
 	 Implementando os prazos máximo e mínimo em conformidade com as instituições (interna e externa)  
 
 
-	 	 
 ### 2023 Liquidações automáticas 
 	 Implementação de melhorias e processos para que as operações pudessem ficar totalmente on-line
 	 Trabalhos de consistência e performance também foram necessários 
 
 
-	 	 
-### 2022 Procap Coobrigacao 
-     Concepcao e criacao de uma nova modalidade Bndes sistema com replicacao
+### 2022 Procap Coobrigação 
+     Concepção e criação de uma nova modalidade Bndes sistema com replicação
 	 Esta modalidade permitiu a liberação de novas fontes de recursos para os associados
 	 além de aumentar o capital das cooperativas
 
 
-	 	 
 ### 2022 Projeção de Juros Futuros 
 	 Melhoria e performance robusta da rotina de 11hs para 3hs
 	 Sem perda de informação ou realização de cálculos incorretos.
 	 Rotina mensal que gira na média entre 19 a 30 mil operações, rodando com todos os indexadores possíveis.
 
 
-	 	 
 ### 2021 Crédito Imobiliario 
      Participei da adaptação do sistema para se comunicar com sistema imobiliario externo
 	 Realizando a exposição externa das APIs de forma segura. 
@@ -77,41 +68,35 @@
 	 Ao mesmo tempo que o sistema interno também necessitava de informações desta aplicação apartada do ecossistema. 
 
 
-	 	 
 ### 2020 TCR Pós Taxa Negativa 
      Implementei metodologia de cálculo em operações com indexadores TCR Negativos. 
 	 São indices passíveis de momentaneamente ficarem negativos devido à flutuação do IPCA. 
 	 Junto com o time, colocamos em todas as etapas dentro do ciclo de vida da operação. 
 
 
-	 	 
 ### 2020 Finame Importados  
      Implantação do Orçamento para realização de empréstimos Finame na modalidade Importados.
-     Consegui adotar o modelo sem prejuizo para as demais modalidades de empréstimos
+     Consegui adotar o modelo sem prejuízo para as demais modalidades de empréstimos
 	 Permitindo inclusive a contratação mista das outras modalidades existente junto com importados. 
 
 
-	 	 
 ### 2020 Prorrogações Pandemia  
      Atuação emergencial no bum das prorrogações devido às medidas legais provenientes da pandemia.
      Com apoio de mais dois colegas conseguimos montar a entrega da solução em um mês.
 	 A solução ficou muito completa e sintética a ponto de seguir durante os 4 anos seguintes sem modificações. 
 
 
-	 	 
 ### 2020 TCR-Pos  
 	 Conecpção e metodologia de nova forma de cálculo de juros aproveitando os modelos anteriores
 
 
-	 	 
 ### 2019 Cálculo CET Rural 
      Desenho, codificação e instalação de funcionalidade para todas operacoes rurais 
-	 Elaboração da tecnica de calculo e adaptacao no sistema
+	 Elaboração da técnica de cálculo e adaptação no sistema
 	 Até hoje nunca houve um erro de cálculo: Poucos incidentes eram de erro nos parâmetros
 	 +2 milhões de operações calculadas (2019-2026) 
 
 
-	 	 
 ### 2019 TLP - Nova moeda das operações de crédito   
 	 Idealização e desenvolvimento na implantação de uma nova moeda/indexador para operações de crédito.
 	 Permitiu a captação de recursos do Bndes e disponibilização para os associados.
@@ -119,29 +104,25 @@
 	 passando por todo o ciclo de vida da operação. 
 
 
-	 	 
 ### 2018 Orçamento de Usados   
-     Implantação do Orçamento para realização de empréstimos Finame na modalidade usados sem Cfi.
-     Consegui adptar o modelo sem prejuizo para as demais modalidades de empréstimos,
+     Implantação do Orçamento para realização de empréstimos Finame na modalidade usados sem CFI.
+     Consegui adptar o modelo sem prejuízo para as demais modalidades de empréstimos,
 	 permitindo inclusive a contratação mista das modalidades existente junto com equipamentos usados. 
 
 
-	  	 
 ### 2018 Diversos projetos no crédito 
-     Padronizacao de produtos: Cadastro e Pacote de taxas     
+     Padronização de produtos: Cadastro e Pacote de taxas     
 	 Fiança honrada manual 
      Inadimplencia (regra, moedas, tlp, ...)
 	 Sistematica
-	 Porte - atualizacao e eliminacao processos antigos
+	 Porte - atualização e eliminação processos antigos
 	 Outras modalidades de seguro 
-
 
 	 	 
 ### 2017 Diversos projetos no crédito 
-     Replicacao on line centralizadora + replica pac 
+     Replicação on line centralizadora + replica pac 
      Orçamento Bndes (coletivo, astec, detalhamento)  
 	 Ajuste nos cronogramas de liberação e vencimento 
-
 
 	 
 ### 2016 Seguro Prestamista  
@@ -156,8 +137,8 @@
 ### 2015 Projeto de tarifas de contas  
      Analisei e encontrei uma forma de recuperar a informação fiel dos dados perdidos.
 	 A composição da tarifa da conta tem vários contadores para cada classe de produto que o associado tem. 
-	 Estes contadores foram alterados indevidamente, e estava tendo prejuizo financeiro quando cobrou a menos ou prejuizo de imagem quando cobrou a mais.
-	 Após a decisão de zerarem os contadores, e arcar com o prejuizo, sugeri e executei a ideia de mapear todos os usos e produtos de todos os associados 
+	 Estes contadores foram alterados indevidamente, e estava tendo prejuízo financeiro quando cobrou a menos ou prejuízo de imagem quando cobrou a mais.
+	 Após a decisão de zerarem os contadores, e arcar com o prejuízo, sugeri e executei a ideia de mapear todos os usos e produtos de todos os associados 
 	 e montar os contadores novamente para fazer a cobrança ou devolução correta dos valores. 
 
 
@@ -173,32 +154,33 @@
 	 tabela, função ou procedimento e mostra em que pontos é chamada. E qual função chama as outras funções.
 	 Ao final elabora um desenho deste mapeamento. 
 
-
-	 	 
-### 2014 Suporte Conta corrente - sem projetos importantes. 
+ 
+### 2014 Suporte Conta corrente
+     Sem projetos relevantes. 
 	 
-### 2013 Suporte Conta corrente - sem projetos importantes. 
+### 2013 Suporte Conta corrente
+     Sem projetos relevantes. 
      	 
 ### 2013 Projeto Romaneio (expedição/OP ordem de produção)  
-     Dialogo cliente, ideia e desenvolvimento de rotinas automaticas para conferencia de componentes e instalações de mega obras de transporte de grãos. 
+     Dialogo cliente, ideia e desenvolvimento de rotinas automáticas.
+     Conferencia de componentes e instalações de mega obras de transporte de grãos. 
 	 Cada pedido gerava várias NFs e transporte de 5 a 20 caminhões com centenas de peças 
-	 - o controle era manual envolvendo várias pessoas. gerando também importacao e exportacao para Excel. 
-
+	 O controle era manual envolvendo várias pessoas. 
+	 Sistema passou a gerar também importação e exportação para Excel. 
 
 	 
 ### 2013 Projeto de baterias em Autódromo  
-     Reestruturacao rotinas de leitura automática. 
+     Reestruturação rotinas de leitura automática. 
 	 Entendimento do problema e ajuste das leituras. 
-	 Existia um erro com diferença de cálculo de tempos, que acabava impactando no resultado final, o que fazia o cliente não utilizar o sistema.
+	 Existia um erro com diferença de cálculo de tempos, que acabava impactando no resultado final, 
+	 o que fazia o cliente não utilizar o sistema.
 
 
-	 
 ### 2012 Projeto em empresa de geradores - Módulo de vendas  
      Ideia e implantação da importação de arquivos de vendas, fornecedores e comissões, que anteriormente
 	 eram feitos manualmente. Projeto original era apenas arrumar as telas de digitação e as rotinas
 	 correspondentes, mas o cliente me relatou esta dor e sugeri tentarmos a importação dos arquivos que eles
 	 já utilizavam. Satisfação total cliente e no mesmo prazo.
-
 
 	 
 ### 2012 Projeto em empresa de geradores - Módulo de Assistencia técnica      
@@ -206,14 +188,12 @@
 	 Principal ganho foi ter estranhado os requisitos e ter direcionado para a área correta.
 	 O sistema não era complexo, mas havia sido definido pela área de vendas ao invés da área técnica que não se conversavam. 
 
-
 	 	 
 ### 2012 Projeto Performance em empresa de Mineração - travamento do sistema  
      Identifiquei que não havia muito a se melhorar nas consultas SQL. 
 	 Pedi ajuda para o pessoal de Infra e na investigação conjunta identificamos uma falha de configuração do Servidor do Banco de Dados,
 	 fazendo despejo de memória em Disco.
 	 Após ajustes destravou toda a operação.
-
 
 	 	 
 ### 2012 Projeto em empresa Agroflorestal de grande porte       
@@ -229,31 +209,26 @@
      Automatização e melhorias em informações para governo (Sefip, GFip, RAIS, DIRF). E integração destas declarações no arquivo digital
  
  
- 
 ### 2011 Sistema de eventos   
      Elaboração de um sistema de eventos para pequena empresa em VBA (antecipando o que o Jira faz hoje)
 	 Resolvendo o problema da falta de percepção da quantidade de trabalho por cliente, e implementando a priorização de tarefas.
 
 
-	 	 
-### 2010 Sistema de cobrança automatico  
+### 2010 Sistema de cobrança automático  
      Integração do sistema de cadastro com a cobrança de honorários via comunicação imediata com Banrisul (CNAB) e emissão de relatórios. 
 
 
-	 
 ### 2010 Arquivo Digital   
      Definição do arquivo digital e implementação de Regras de GED.
      Resolveu o custo de impressão, a deficiência de controle dos processos, e também facilitou o envio de documentos para os clientes.  	 
 
 
-	 
 ### 2009 Integrações   
      Importação arquivos .txt e .csv de clientes e integração entre todos sistemas fiscais e contábeis, eliminação digitação e retrabalho.
 
 
- 	  
-
-### 2006-2008 Sem projetos relevantes 
+### 2006-2008 
+     Sem projetos relevantes 
 	  
 	  
 ### 2005 Sistema simples para Gráfica: Clientes, Nf, Pedidos e Controle de tele-entrega. Linguagem Clipper. 
@@ -267,8 +242,6 @@
 	 Linguagens: Visual Basic, C e Fortran.	 
 
 
-	 	 
- 
 ###     1999 Sistema para empresa de RH - Sistema básico de cadastro de candidatos e empresas.  
 	 
 
