@@ -1,24 +1,24 @@
 #Principais projetos
 
 <details open><summary>
-2026 Criação da base centralizadora 9806</summary>
+2026 *Criação da base centralizadora 9806*</summary>
      +20.000 Objetos de banco de dados e seus relacionamentos
 	 Definição e previsão de uso da base: Rotinas e funcionalidades que serão utilizados.	
 	 Conectando +10 areas diferentes (Infra, Dba, cadastro, entidades, opti, devops, gestão de mudanças, gestão de configuração, aplicações, cc, risco, credito, acessos, segurança, auditoria)
 </details>	 
 <details open><summary>
-2025 Rotina de Sobras (Reciprocidade)</summary>
+2025 *Rotina de Sobras (Reciprocidade)*</summary>
      Ajuste obtenção valores corretos todas operacoes 9802 e 9803 
 	 Performance e teste -> +630mil operacoes  +50 milhões de movimentos por ano
      Recálculo em produção 
 </details>	 
 <details open><summary>	 
-2025 TFCB - Novo indexador </summary>
+2025 *TFCB - Novo indexador* </summary>
 	 Permitir nova forma de cálculo pelo sistema, nova moeda
 	 Mapeamento necessidades, definição e desenvolvimento
 </details>	 
 <details open><summary>	 
-2024 Prorrogacoes não equalizadas </summary>
+2024 *Prorrogacoes não equalizadas* </summary>
      Definição da estrategia e desenvolvimento de toda rotina 
 	 Package configurável a futuras mudanças sem precisar implementação
 </details>	 
@@ -26,7 +26,7 @@
 2024 Evolucao de calculos </summary>
 </details>	 
 <details open><summary>		 
-2023 Transferencia de Dívida </summary>
+2023 *Transferencia de Dívida* </summary>
      Concepcao e criacao funcionalidade que cria todo ciclo de uma operacao rural em menos de 1 min 
 	 Clonar operações com todas as suas ramificações (Solicitacao, cadastro), liberacao nova, liquidacao antiga, registros externos (bndes,bacen,risco, etc). Replicando cooperativa e banco. 
 	 Criação de packages com funções que não existiam no sistema e são reutilizaveis.
