@@ -12,6 +12,7 @@
 [ [2010 Arquivo Digital] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2010-arquivo-digital)
 [ [1997 Dashboard Fiscal] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#1997-planilhas-fiscaisdashbords-clientes)
 
+
 ## 📰 Linha do tempo: principais projetos 
 
 #### 2026 Criação da base centralizadora 9806
