@@ -1,6 +1,6 @@
-# 📰 Principais projetos realizados 
+# 📝 Principais projetos realizados 
 
-## Projetos em Destaque 
+## 📌 Projetos em Destaque 
 
 [ [2026 Criação Nova Base] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2026-cria%C3%A7%C3%A3o-da-base-centralizadora-9806)
 [ [2024 Prorrogações] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2024-prorrogacoes-n%C3%A3o-equalizadas)
@@ -12,8 +12,7 @@
 [ [2010 Arquivo Digital] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2010-arquivo-digital)
 [ [1997 Dashboard Fiscal] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#1997-planilhas-fiscaisdashbords-clientes)
 
-
-## 📰 Linha do tempo: principais projetos 
+## 📆 Linha do tempo: principais projetos 
 
 #### 2026 Criação da base centralizadora 9806
      +20.000 Objetos de banco de dados e seus relacionamentos
@@ -239,3 +238,5 @@
      Controle de declarações governamentais de empresas 
      Impressao de formulários pré-impressos para substituir datilografia 
      Projeto de otimização de contratos sociais de empresas   
+	 
+[ [Voltar ao topo] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#-principais-projetos-realizados)
