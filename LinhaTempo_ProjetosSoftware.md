@@ -169,7 +169,7 @@
      correspondentes, mas o cliente me relatou esta dor e sugeri tentarmos a importação dos arquivos que eles
      já utilizavam. Satisfação total cliente e no mesmo prazo.
      
-#### 2012 Projeto em empresa de geradores - Módulo de Assistencia técnica      
+#### 2012 Projeto em empresa de geradores - Módulo de Assistencia técnica        [⏫](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#-principais-projetos-realizados)      
      Levantamento de requisitos e implantação da rotina. 
      Principal ganho foi ter estranhado os requisitos e ter direcionado para a área correta.
      O sistema não era complexo, mas havia sido definido pela área de vendas ao invés da área técnica que não se conversavam. 
@@ -209,7 +209,7 @@
 #### 2006-2008 
      Sem projetos relevantes   
       
-#### 2005 Sistema simples para Gráfica
+#### 2005 Sistema simples para Gráfica        [⏫](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#-principais-projetos-realizados)
      Clientes, Nf, Pedidos e Controle de tele-entrega.   
       
 #### 2004 Sistema simples para empresa de Ar-Condicionado 
@@ -220,11 +220,11 @@
      Sensores ópticos, de tempo, temperatura. 
      Linguagens: Visual Basic, C e Fortran.  
 
-#### 1999 Sistema para empresa de RH 
+#### 1999 Sistema para empresa de RH        [⏫](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#-principais-projetos-realizados) 
      Sistema básico de cadastro de candidatos e empresas.  
      Realizava "match" filtrando as características 
 
-#### 1998 Sistema completo para revenda de veículos que não foi pra frente 
+#### 1998 Sistema completo para revenda de veículos que não foi pra frente        [⏫](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#-principais-projetos-realizados) 
      Ninguém nesse ramo usava PC nesta época 
          
 #### 1997 Planilhas fiscais/Dashbords clientes
@@ -232,10 +232,10 @@
      Continha a evolução anual   
      Em 2022, fiquei sabendo que estavam substituindo, ficou incríveis 25 anos em uso!   
       
-#### 1994 - 1996 Diversos  
+#### 1994 - 1996 Diversos        [⏫](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#-principais-projetos-realizados)
      implantação e configuração sistema contábil 
      Controle de declarações governamentais de empresas 
      Impressao de formulários pré-impressos para substituir datilografia 
      Projeto de otimização de contratos sociais de empresas   
 	 
-[ [Voltar ao topo] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#-principais-projetos-realizados)
+[ [Voltar ao topo] ⏫ ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#-principais-projetos-realizados)
