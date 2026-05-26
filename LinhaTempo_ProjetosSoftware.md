@@ -2,14 +2,14 @@
 
 ## 📌 Projetos em Destaque 
 
-[   [2026 Criação Nova Base] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2026-cria%C3%A7%C3%A3o-da-base-centralizadora-9806-)
-[   [2023 Transf.Dívida] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2023-transferencia-de-d%C3%ADvida-)
-[   [2022 Projeção de Juros] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2022-proje%C3%A7%C3%A3o-de-juros-futuros-)
-[   [2019 Cálculo CET Rural] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2019-c%C3%A1lculo-cet-rural-)
-[   [2015 Mapeador de Código] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2015-mapeador-de-c%C3%B3digo-)
-[   [2011 Sistema de Eventos] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2011-sistema-de-eventos-)
-[   [2010 Arquivo Digital] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2010-arquivo-digital-)
-[   [1997 Dashboard Fiscal] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#1997-planilhas-fiscaisdashbords-clientes-)
+↘️ [[2026 Criação Nova Base] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2026-cria%C3%A7%C3%A3o-da-base-centralizadora-9806-)
+  ↘️[[2023 Transf.Dívida] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2023-transferencia-de-d%C3%ADvida-)
+  ↘️[[2022 Projeção de Juros] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2022-proje%C3%A7%C3%A3o-de-juros-futuros-)
+  ↘️[[2019 Cálculo CET Rural] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2019-c%C3%A1lculo-cet-rural-)
+  ↘️[[2015 Mapeador de Código] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2015-mapeador-de-c%C3%B3digo-)
+  ↘️[[2011 Sistema de Eventos] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2011-sistema-de-eventos-)
+  ↘️[[2010 Arquivo Digital] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#2010-arquivo-digital-)
+  ↘️[[1997 Dashboard Fiscal] ](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#1997-planilhas-fiscaisdashbords-clientes-)
 
 ## 📆 Linha do tempo: principais projetos 
 
@@ -33,8 +33,11 @@
      Package configurável a futuras mudanças sem precisar implementação
      
 #### 2024 Evolução de cálculos [⏫](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#-principais-projetos-realizados) 
-     Xxxxxxx preencher
-     xxxxxxxx     
+     Ajustes nas rotinas de cálculos de juros e CM
+	 Exportação automática conta corrente, Integração: Débito/créditos automáticos cf.movimentacao
+	 Trazer processamento off-line para data atual (on-line)
+	 Rotinas de liquidação automática 
+	 Replicacao base banco e base coop 
 
 #### 2023 Transferencia de Dívida [⏫](https://github.com/leonardo78rs/Certificados/blob/main/LinhaTempo_ProjetosSoftware.md#-principais-projetos-realizados) 
      Concepção e criação funcionalidade que cria todo ciclo de uma operação rural **em menos de 1 min** 
